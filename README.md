@@ -1,0 +1,1 @@
+# hotel-questions-vanilla-JS
